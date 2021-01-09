@@ -127,4 +127,4 @@ alias ta='tmux attach -t'
 alias ts='tmux new-session -s'
 
 
-quote | cowsay
+# quote | cowsay
